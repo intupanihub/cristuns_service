@@ -1,0 +1,30 @@
+a, h1, h2, h3, h5, h6, span{
+    color: yellow;
+    text-decoration: none;
+    font-size: 60px;
+    margin: 0px;
+}
+nav{
+    position: fixed;
+    display: inline;
+}
+a:hover{
+    opacity: 0.3;
+}
+body{
+    background-color: aqua;
+    margin: 0px;
+}
+img{
+    width: 60px;
+    height: 60px;
+}
+nav[class="out"]{
+    width: 50000000000000000000000000000000000000000000000000000000px;
+    height: 100px;
+    display: inline-block;
+    background-color: aquamarine;
+}
+.cmd{
+    padding-top: 150px;
+}
